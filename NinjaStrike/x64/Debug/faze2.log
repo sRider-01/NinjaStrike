@@ -1,6 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中間ディレクトリ (Phase2\x64\Debug\) に別のプロジェクト (faze2.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
-  GameLevel.cpp
-  PauseManager.cpp
-  TaskManager.cpp
-  コードを生成中...
-  faze2.vcxproj -> C:\Users\staff\OneDrive\ドキュメント\Visual Studio 2022\Creative_Academy\faze2\x64\Debug\Phase2.exe
