@@ -1,0 +1,8 @@
+Assets/
+
+.vs/
+out/
+build/
+*.exe
+*.o
+*.obj
